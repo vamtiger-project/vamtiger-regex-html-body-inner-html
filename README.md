@@ -68,7 +68,9 @@ const input = `
     <title>Some HTML Title</title>
 </head>
 <body>
-    
+    <div>
+        Some HTML body inner HTML
+    </div>
 </body>
 </html>
 `;
