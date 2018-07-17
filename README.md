@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Regex HTML Body Inner HTML
 A [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to match the body **_inner HTML title_** for a defined HTML input string.
 
 ## Installation
